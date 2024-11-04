@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Analytics & UX/UI Designer
 -------------------------------
+<h1>Adaptable professional with strong time management skills, thriving in high-pressure environments and excelling in fast-paced settings. A quick learner capable of handling multiple tasks simultaneously, dedicated to collaborative efforts, and committed to achieving successful outcomes.</h1>
 
 Conduct a business needs analysis using an available data provided in database(Data warehouse). Create dashboard and visual interactive reports (with Power BI, Python).  Work closely with Software Engineers and Business team to ensure smooth data operations. Know-how about basic data collection(SQL, Pandas), data cleaning(Missing value, Normalization).
 
